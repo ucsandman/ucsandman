@@ -16,17 +16,18 @@
 
 ## About
 
-Solo founder building infrastructure for AI agents. Most of my work is around one question: how do you let an agent run on its own without it doing something dumb with real money, real customers, or your production box.
+Solo founder building infrastructure for AI agents. Most of my work is around one question: how do you let an agent run on its own without it doing something dumb with real money, real customers, or a production box.
 
 I spend most of my time:
 
 - Building approval and policy layers so agents can be trusted with risky actions
 - Running Claude Code and OpenClaw as daily drivers and open sourcing the setup
+- Running an LLM-driven discovery loop at night. It beat 10 best-known Packomania circle packings and a paper is on arXiv
 - Driving phones and desktops from LLM agents
-- Writing poker solvers for fun
+- Writing poker solvers. I played pro before any of this
 - Shipping small products and seeing what sticks
 
-📍 Based in Ohio. Open to remote work and interesting collaborations.
+📍 Based in Ohio. If you're building agent infra, my DMs are open.
 
 ---
 
