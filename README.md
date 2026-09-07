@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wes--sander-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wes-sander-01b180319)
 [![X](https://img.shields.io/badge/X-@ucsandman-000000?logo=x&logoColor=white)](https://x.com/ucsandman)
 [![Reddit](https://img.shields.io/badge/Reddit-u/SIGH__I__CALL-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/SIGH_I_CALL)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.05093-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.05093)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ucsandman)
 
 </div>
@@ -118,15 +119,15 @@ I spend most of my time:
 </td>
 <td width="33%" valign="top">
 
-### [postflop](https://github.com/ucsandman/postflop)
+### [discovery-loop](https://github.com/ucsandman/discovery-loop)
 
-**Heads-up NLHE postflop GTO solver**
+**LLM-guided program evolution for optimization**
 
-- Vector-form Discounted CFR in Rust
-- Measured exploitability
-- CLI, WASM, and a browser workbench
+- An LLM evolves solvers, checked by an independent verifier
+- Broke 10 best-known Packomania circle packings for $28
+- [Paper on arXiv](https://arxiv.org/abs/2609.05093)
 
-![Rust](https://img.shields.io/badge/Rust-000?logo=rust) ![WASM](https://img.shields.io/badge/WASM-654FF0?logo=webassembly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![arXiv](https://img.shields.io/badge/arXiv-2609.05093-b31b1b)
 
 </td>
 </tr>
